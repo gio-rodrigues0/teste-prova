@@ -3,11 +3,11 @@
 RDS
 - Criando o RDS (ele demora pra criar, não criar no modo fácil, coloca a senha admin123 pra ficar mais fácil)
 - Adicionar o link do rds no local do backend
-![rds1](https://github.com/gio-rodrigues0/teste-prova/rds1.png)
+![rds1](https://github.com/gio-rodrigues0/teste-prova/blob/main/rds1.png)
 - Mudar regra de segurança (all tcps - 0.0.0.0/0)
-![rds2](https://github.com/gio-rodrigues0/teste-prova/rds2.png)
-![rds3](https://github.com/gio-rodrigues0/teste-prova/rds3.png)
-![rds4](https://github.com/gio-rodrigues0/teste-prova/rds4.png)
+![rds2](https://github.com/gio-rodrigues0/teste-prova/blob/main/rds2.png)
+![rds3](https://github.com/gio-rodrigues0/teste-prova/blob/main/rds3.png)
+![rds4](https://github.com/gio-rodrigues0/teste-prova/blob/main/rds4.png)
 
 EC2 Back
 - Criar EC2 do back
